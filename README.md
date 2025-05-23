@@ -18,6 +18,7 @@ A sleek and futuristic URL shortener web application built with Node.js and Expr
 
 - Node.js
 - Express.js
+- Mongo DB
 - EJS templating engine
 - QRious (for QR code generation)
 - HTML, CSS (with modern styling and animations)
