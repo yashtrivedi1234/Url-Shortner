@@ -1,3 +1,6 @@
+#Live Link:- https://url-shortner-7zp5.onrender.com
+
+
 # URL Shortener
 
 A sleek and futuristic URL shortener web application built with Node.js and Express. It allows users to shorten long URLs and share them easily with a stylish interface, QR code generation, and copy-to-clipboard functionality.
