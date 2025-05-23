@@ -16,6 +16,7 @@ A sleek and futuristic URL shortener web application built with Node.js and Expr
 
 ## Tech Stack
 
+- JavaScript
 - Node.js
 - Express.js
 - Mongo DB
